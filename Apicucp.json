@@ -37,7 +37,7 @@
     {
         "id": "6",
         "src": "",
-        "Flavor": "RED BERRY AND BLACK BERRY",
+        "Flavor": "RED BERRY",
         "Price": "5",
         "description": "WITHOUT INSIDE SAUCE "
     },
@@ -93,7 +93,7 @@
     {
         "id": "14",
         "src": "",
-        "Flavor": "RED BERRY AND BLACK BERRY",
+        "Flavor": "RED BERRY",
         "Price": "10",
         "description": "WITH INSIDE SAUCE "
     },
